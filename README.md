@@ -1,6 +1,3 @@
 # test
 Just test
-
-aigh
-
-only testing
+done by slave branch
